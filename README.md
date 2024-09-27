@@ -1,2 +1,2 @@
 # info2180-lab1
-Educational
+This is Lab 1 for Andre Hibbert
